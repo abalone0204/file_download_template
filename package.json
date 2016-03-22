@@ -1,5 +1,5 @@
 {
-  "name": "file_proccessor_test",
+  "name": "file_proccessor",
   "version": "0.0.1",
   "description": "For file process load",
   "main": "index.js",

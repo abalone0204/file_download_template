@@ -1,3 +1,5 @@
+# How 
+
 - [fileSystem sample](https://developer.chrome.com/apps/app_codelab_filesystem)
 
 - 先拿到 type 為 fileEntry 的 object
