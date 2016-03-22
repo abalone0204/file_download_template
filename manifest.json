@@ -1,0 +1,17 @@
+{
+  "name": "File-Download Template",
+  "description": "File download template",
+  "version": "0.1",
+  "manifest_version": 2,
+  // Required
+  "app": {
+    "background": {
+      "scripts": ["build/background.js"]
+    }
+  },
+  "permissions": [
+    {"fileSystem": ["write", "retainEntries", "directory"]},
+    "<all_urls>"
+  ],
+  "icons": { "16": "static/bitart_me.png", "128": "static/bitart_me.png" }
+}
